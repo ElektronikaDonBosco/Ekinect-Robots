@@ -12,3 +12,5 @@ Don Bosco, Zubiri Manteo eta Easo Politeknikoren arteko proiektua da. Proiektu h
 - Estazio Metereologikoa
 - Pantaila
 - Pultsera
+
+Plaka hauen baldintzak jakiteko, Easo Politeknikoaren ikasleen laguntzaz baliatu ginen. Zahar-etxeko pertsonen kondizioetaz hitz egin eta gure sentsoreetara aplikatu ditugu. Gure plakak Zubiri Manteoko ikasleek egindako web orriari datuak bidaliko dizkiogu. Zerbitzari hau, datu hauek prozesatu egingo ditu eta gure Pepper, robot humanoideak, guk "Choreographe" aplikazioan sortutako animaziok eta esaldiak esango ditu.   
