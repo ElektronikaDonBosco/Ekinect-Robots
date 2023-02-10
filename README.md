@@ -1,4 +1,5 @@
 # EkinectRobots
 Gerontologia-zentroen pepper robota, automatizazioa eta domotika.
 
-![0e93d0](https://user-images.githubusercontent.com/124257919/218085704-bae7a3bf-ee52-4136-a6a0-75b40647fba5.png)
+![descarga](https://user-images.githubusercontent.com/124257919/218085893-a27b28bb-b2d8-44dc-8522-3110dc84cecb.jpeg)
+
