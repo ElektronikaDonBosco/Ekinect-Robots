@@ -1,2 +1,3 @@
 # EkinectRobots
-Pepper robots automatizacion y domotica de centros gerontologicos.
+Gerontologia-zentroen pepper robotak, automatizazioa eta domotika.
+
