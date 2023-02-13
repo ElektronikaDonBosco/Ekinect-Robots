@@ -124,9 +124,19 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
 	username: zuen Home Assistanteko erabiltzaile izena
 ![image](https://user-images.githubusercontent.com/124257919/218424956-82b741e4-63f2-4040-874a-11113dca680a.png)
 
-  3- Red konfigurazioan portua 1880 jarri behar da.
+ 3- Red konfigurazioan portua 1880 jarri behar da.
 ![image](https://user-images.githubusercontent.com/124257919/218424595-3e511ec3-90fe-465c-a0c7-7b0b17321736.png)
 
+ 4- Node-Red etik sentsorearen datuak bidali
+ 
+· ![image](https://user-images.githubusercontent.com/124257919/218437301-179c39ea-f8ea-4f56-bca1-db88547e4d23.png)
+![image](https://user-images.githubusercontent.com/124257919/218437803-79032d6e-05fa-4bd0-a426-54c65b15a0f7.png)
+Entity ID-n gure sentrorearen ID-a jarri behar dugu.
+Update Interval zenbatero bidaltzen dituen sentsorearen datuak.
+![image](https://user-images.githubusercontent.com/124257919/218438864-1ce2816a-5fba-48d7-80eb-02ef0d71d667.png)
+Payload, var_temp aldagaian bihurtzen dugu.
+![image](https://user-images.githubusercontent.com/124257919/218439647-4f043999-ecb4-4b90-92a7-d696bcf6604f.png)
+URL-an guk datuak bidali nahi ditugun url ipini behar dugu, eta azkeneko honekin "{{{var_temp}}}", url-aren bukaeran sentsorearen datuak publikatzen dira.
 
 2. PROTEUS
 
