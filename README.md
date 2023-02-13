@@ -11,6 +11,7 @@ Don Bosco, Zubiri Manteo eta Easo Politeknikoren arteko proiektua da. Proiektu h
 ![images](https://user-images.githubusercontent.com/124257919/218395144-f82175ca-1292-40ea-b98d-4d9f054e8dae.jpg)
 ![download](https://user-images.githubusercontent.com/124257919/218395510-ee982a1c-4218-41ed-be22-7e651fcf561f.png)
 ![download](https://user-images.githubusercontent.com/124257919/218395846-35b05018-82b6-43a4-93a2-7b937a1145b4.jpg)
+![images](https://user-images.githubusercontent.com/124257919/218397421-76ac2b2a-eed5-4593-8bb6-304d1a7f2962.jpg)
 
 
 - Barruko sentsoreak
