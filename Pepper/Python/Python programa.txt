@@ -16,7 +16,7 @@ class MyClass(GeneratedClass):
 
     def onInput_onStart(self):
         #self.onStopped() #activate the output of the box
-        url='http://ekibot.duckdns.org/api/1234/1'
+        url='http://ekibot.duckdns.org/api/1234/1' #our website url
         x = requests.get(url) 
         if x == 0:
             self.output1()
