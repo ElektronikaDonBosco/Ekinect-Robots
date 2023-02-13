@@ -46,3 +46,4 @@ ABIARAZI ZURE RASPBERRY PI
 - Windows bertsio zaharrago bat exekutatzen ari bazara edo sarearen konfigurazio zorrotzagoa baduzu, baliteke Home Assistant-era atzitu behar izatea homeassistant:8123 edo http://X.X.X.X:8123(ordezkatu XXXX zure Raspberry Pi-ren IP helbidearekin).
 Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearekin jarraitu dezakezu.
 
+1.1 ZIGBEE
