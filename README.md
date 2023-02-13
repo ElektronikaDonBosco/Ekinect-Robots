@@ -29,12 +29,15 @@ Plaka hauen baldintzak jakiteko, Easo Politeknikoaren ikasleen laguntzaz baliatu
 
 Gure plakak Zubiri Manteoko ikasleek egindako web orriari datuak bidaliko dizkiogu "NodeRed"-en laguntzaz.
 
+![image](https://user-images.githubusercontent.com/124257919/218398257-5f8179ab-5822-4891-9125-3595742573b1.png)
+
 
 
 
 
 Zerbitzari hau, datu hauek prozesatu egingo ditu eta gure Pepper-ek, robot humanoideak, guk "Choreographe" aplikazioan sortutako animaziok eta esaldiak esango ditu. Konexioa hau Python pragrazioaren bidez egingo dugu.
 
+![image](https://user-images.githubusercontent.com/124257919/218399133-2c3dd311-3933-4476-8fd4-0286bf2caf8e.png)
 
 
 
