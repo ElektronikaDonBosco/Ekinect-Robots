@@ -153,8 +153,7 @@ Barruko plakaren konexioak
 
 Estazio metereologikoa
 
-![images](https://user-images.githubusercontent.com/124257919/218441897-c48aa0cb-a086-4b4f-9002-c1bfc5229f64.jpg)
-![images](https://user-images.githubusercontent.com/124257919/218442125-bdf2a8d8-723e-4b23-b5ff-bc952df121a3.jpg)
+![EsquemGeneral-1](https://user-images.githubusercontent.com/124257919/218443421-47d51e19-f922-40c2-88a0-49bce1484aae.png)
 
 Pantaila
 
