@@ -47,3 +47,40 @@ ABIARAZI ZURE RASPBERRY PI
 Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearekin jarraitu dezakezu.
 
 1.1 ZIGBEE
+
+![logo](https://user-images.githubusercontent.com/124257919/218418768-e6cd0f7e-137a-4f9b-b579-0325b77207f6.png)
+
+1- Oraindik ez baduzu MQTT artekaririk; Home Assistant-en joan Ezarpenak → Gehigarriak → Gehigarrien denda eta instalatu Mosquitto broker gehigarria.
+
+2- Itzuli Gehigarrien dendara , egin klik ⋮ → Biltegiak , bete https://github.com/zigbee2mqtt/hassio-zigbee2mqtteta egin klik Gehitu → Itxi .
+
+3- Biltegiak bi gehigarri ditu:
+  · Zigbee2MQTT Zigbee2MQTT kaleratutako bertsioen jarraipena egiten duen bertsio egonkorra da. ( erabiltzaile gehienentzat gomendatua )
+  · Zigbee2MQTT Edge -k Zigbee2MQTT- ren devadarraren jarraipena egiten du, ertz-bertsioa instalatu dezakezu oraindik kaleratu ez diren Zigbee2MQTT dev adarrean eginbide edo konponketak badaude.
+  
+4- Egin klik gehigarrian eta sakatu Instalatu eta itxaron gehigarria instalatu arte.
+
+5- Egin klik Konfigurazioan:
+  · Mosquitto broker gehigarria erabiltzen ez baduzu , bete zure MQTT xehetasunak (utzi hutsik Mosquitto broker gehigarria erabiltzean). Formatua hemen aurki daiteke , baina saltatu hasierako mqtt:koska. adibidez:
+
+      server: mqtt://localhost:1883
+      user: my_user
+      password: my_password
+      
+  · Bete serieko xehetasunak (adibidez, zure USB koordinatzailearen ataka). Formatua hemen aurki daiteke , baina saltatu hasierako serial:koska. adibidez:
+
+      port: /dev/ttyUSB0
+
+  · Portua ezagutzen ez baduzu eta USB gailu bakarra baduzu zure makinara konektatuta, saiatu /dev/ttyUSB0. Bestela, erabili Home Assistant CLI eta exekutatu ha hardware infojakiteko.
+
+  · Sakatu Gorde
+
+  · Aholkua: Home Assistant fitxategiko aldagaiak aipatzea posible da secrets.yaml(ez Zigbee2MQTT!) erabiliz, adibidez.password: '!secret mqtt_pass'
+
+6- Hasi gehigarria Informaziora joan eta sakatu Hasi
+
+7- Itxaron Zigbee2MQTT abiarazi arte eta sakatu IREKI WEB UI Zigbee2MQTT behar bezala hasi dela egiaztatzeko.
+
+  · Erakusten badu, 502: Bad Gatewayitxaron pixka bat gehiago eta freskatu orria.
+  
+  · Honek luzeegia hartzen badu (adibidez, 2 minutu +), egiaztatu Erregistroa fitxan zer gertatu den gaizki ikusteko.
