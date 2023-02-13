@@ -1,0 +1,54 @@
+esphome:
+  name: esp32-pertsona
+
+esp32:
+  board: esp32dev
+  framework:
+    type: arduino
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key: "QILg7SmGN9F/gVG2snO9rMnT3fLNj7UNwmxBxb1NKMw="
+
+ota:
+  password: "b7b61a2694e20ac3ce502c21efd47803"
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Esp32-Pertsona Fallback Hotspot"
+    password: "zfiuw2EZwLWo"
+
+captive_portal:
+
+i2c:
+    sda: GPIO21
+    scl: GPIO22
+    scan: True
+
+
+sensor:
+  - platform: mpu6050
+    address: 0x68
+    accel_x:
+      name: "MPU6050 Accel X"
+    accel_y:
+      name: "MPU6050 Accel Y"
+    accel_z:
+      name: "MPU6050 Accel z"
+    gyro_x:
+      name: "MPU6050 Gyro X"
+    gyro_y:
+      name: "MPU6050 Gyro Y"
+    gyro_z:
+      name: "MPU6050 Gyro z"
+    temperature:
+      name: 'MPU6050 Temperature'
+    update_interval: 2s

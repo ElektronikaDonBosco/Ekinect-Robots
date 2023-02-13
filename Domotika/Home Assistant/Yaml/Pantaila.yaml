@@ -1,0 +1,93 @@
+esphome:
+  name: esp32-pantaila
+
+esp32:
+  board: esp32dev
+  framework:
+    type: arduino
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key: "jKKSX/maggMw0ytWplR0R0HP9HEDwBnuyf5O5wxzHg8="
+
+ota:
+  password: "a184f294c63a507af3c8b8821c6ddcb9"
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Esp32 Fallback Hotspot"
+    password: "zLPv8yFIdsPW"
+
+captive_portal:
+
+sensor:
+  - platform: homeassistant
+    id: barruko_tenperatura
+    entity_id: sensor.inside_temperature_4
+    internal: true
+    
+spi:
+  clk_pin: 18
+  mosi_pin: 23
+  miso_pin: 19
+
+
+
+font:
+  - file: "fonts/ComicSansMS3.ttf"
+    id: font10
+    size: 10
+
+  - file: "fonts/ComicSansMS3.ttf"
+    id: font15
+    size: 15
+
+  - file: "fonts/ComicSansMS3.ttf"
+    id: font20
+    size: 20
+
+
+
+time:
+  - platform: homeassistant
+    id: my_time
+
+display:
+  - platform: ili9341
+    model: TFT 2.4
+    cs_pin: 22
+    dc_pin: 21
+    reset_pin: 17
+    rotation: 0
+    ## The panels will redraw themselves completely.
+    auto_clear_enabled: True
+    update_interval: 0.1s
+    lambda: |-
+      // Colours - used for visiual indication of wind strength
+      auto red = Color(255, 0, 0);
+      auto green = Color(0, 255, 0);
+      auto light_blue = Color(135, 237, 232);
+      auto orange = Color(255, 170, 43);
+      auto white = Color(255, 255, 255);
+      auto purple = Color(97, 15, 219);
+      // Time
+      it.strftime(235, 10, id(font20), TextAlign::TOP_RIGHT, "%H:%M", id(my_time).now());
+      it.print(5, 310, id(font20), TextAlign::BOTTOM_LEFT, "AAA");
+      it.print(235, 310, id(font20), TextAlign::BOTTOM_RIGHT, "BBB");
+      if (id(barruko_tenperatura).has_state()) {
+            it.print(5, 10, id(font15), "%.2f Cº", id(barruko_tenperatura).state);
+      }
+      // Compass rose
+      it.circle(120, 160, 90);
+      it.print(120, 60, id(font20), red, TextAlign::BOTTOM_CENTER, "N");
+      it.print(120, 260, id(font20), red, TextAlign::TOP_CENTER, "S");
+      it.print(20, 160, id(font20), red, TextAlign::CENTER_RIGHT, "W");
+      it.print(220, 160, id(font20), red, TextAlign::CENTER_LEFT, "E");  
