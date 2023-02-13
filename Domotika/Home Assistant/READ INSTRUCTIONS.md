@@ -90,4 +90,13 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
  Gure sentsoreen sarea egiteko "Esp Home" aplikazioa instalatu genuen.
  
  1- "Osagarri-denda" sartu eta bilatzailean EspHome jarri
+ 
  ![image](https://user-images.githubusercontent.com/124257919/218420948-516ea4e7-5a26-44d1-b910-adb6acd908d7.png)
+ 
+ 2- EspHome instalatu eta hasi
+ 
+ ![image](https://user-images.githubusercontent.com/124257919/218422064-ddfe6e61-61ee-4c15-86f8-3bdeb50fd9f8.png)
+
+ 3- EspHome barruan, gailuak jartzeko. "Gailua gehitu" botoiari eman eta daukazuten plaka mota aukeratu.
+ 
+ ![image](https://user-images.githubusercontent.com/124257919/218422678-01527f06-0b3e-4241-945d-cec5958dabab.png)
