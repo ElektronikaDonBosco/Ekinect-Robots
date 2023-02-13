@@ -8,8 +8,7 @@ Gerontologia-zentroen pepper robota, automatizazioa eta domotika.
 # Zein da gure proiektua ?
 
 Don Bosco, Zubiri Manteo eta Easo Politeknikoren arteko proiektua da. Proiektu honetan guk egindako plaken artean;
-Vista previa del archivo adjunto IMG20230213081138.jpgIMG20230213081138.jpg
-2.4 MB
+![IMG20230213081138](https://user-images.githubusercontent.com/124257919/218394074-b0f3b19f-2e4b-4e6b-8517-ffa89d7ec468.jpg)
 - Barruko sentsoreak
 - Estazio Metereologikoa
 - Pantaila
