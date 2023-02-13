@@ -128,4 +128,8 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
 ![image](https://user-images.githubusercontent.com/124257919/218424595-3e511ec3-90fe-465c-a0c7-7b0b17321736.png)
 
 
+2. PROTEUS
+
+![1_k_JmJsVBnjiRLG1Snjm8vQ](https://user-images.githubusercontent.com/124257919/218435704-e342d077-ba37-4c9c-91d3-df3c3d1533a3.png)
+
 
