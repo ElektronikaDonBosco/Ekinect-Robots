@@ -130,6 +130,8 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
 
 2. PROTEUS
 
+Barruko plakaren konexioak
+
 ![1_k_JmJsVBnjiRLG1Snjm8vQ](https://user-images.githubusercontent.com/124257919/218435704-e342d077-ba37-4c9c-91d3-df3c3d1533a3.png)
 
 
