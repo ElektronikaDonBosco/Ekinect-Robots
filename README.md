@@ -9,10 +9,11 @@ Gerontologia-zentroen pepper robota, automatizazioa eta domotika.
 
 Don Bosco, Zubiri Manteo eta Easo Politeknikoren arteko proiektua da. Proiektu honetan guk egindako plaken artean;
 ![images](https://user-images.githubusercontent.com/124257919/218395144-f82175ca-1292-40ea-b98d-4d9f054e8dae.jpg)
-Barruko sentsoreak
-Estazio Metereologikoa![download](https://user-images.githubusercontent.com/124257919/218395510-ee982a1c-4218-41ed-be22-7e651fcf561f.png)
-Pantaila![download](https://user-images.githubusercontent.com/124257919/218395846-35b05018-82b6-43a4-93a2-7b937a1145b4.jpg)
-
+                              Barruko sentsoreak
+![download](https://user-images.githubusercontent.com/124257919/218395510-ee982a1c-4218-41ed-be22-7e651fcf561f.png)
+                              Estazio Metereologikoa
+![download](https://user-images.githubusercontent.com/124257919/218395846-35b05018-82b6-43a4-93a2-7b937a1145b4.jpg)
+                              Pantaila
 - Pultsera
 
 Plaka hauen baldintzak jakiteko, Easo Politeknikoaren ikasleen laguntzaz baliatu ginen. Zahar-etxeko pertsonen kondizioetaz hitz egin eta gure sentsoreetara aplikatu ditugu. Sentsore horiek "Home Assistant" bidez konektatuko ditugu. 
