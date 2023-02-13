@@ -12,19 +12,25 @@ Lehenik eta behin, gure Raspberry Pi 4-an Home Assistant softwarea instalatu gen
 3-Hautatu "Flash URLtik" Hautatutako URLaren flasha erakusten duen Etcher softwarearen pantaila-argazkia.
 ![etcher1](https://user-images.githubusercontent.com/124257919/218414259-9466c2a2-4ba1-41b9-8b2c-67142bc3c6c4.png)
 
+4-Lortu zure Raspberry Pi-ren URLa:
+![image](https://user-images.githubusercontent.com/124257919/218414503-86ea5052-64ea-4cbb-ada7-20dd810176d2.png)
 
-Lortu zure Raspberry Pi-ren URLa:
 
-Raspberry Pi 4
-Raspberry Pi 3
-https://github.com/home-assistant/operating-system/releases/download/9.5/haos_rpi4-64-9.5.img.xz
-Testua
 Hautatu eta kopiatu URLa edo erabili gainean jartzen duzunean agertzen den "kopiatu" botoia.
 
-Itsatsi zure Raspberry Pi-ren URLa Balena Etcher-en eta egin klik "Ados" Etcher softwarearen pantaila-argazkia URL barra itsatsita duen URLa erakusten duena.
-Balena Etcherrek orain irudia deskargatuko du, hori amaitutakoan sakatu "Hautatu helburua" Etcher softwarearen pantaila-argazkia, hautatzeko xede-botoia nabarmenduta erakusten duena.
-Hautatu zure Raspberry Pi-rako erabili nahi duzun SD txartela Etcher softwarearen pantaila-argazkia eskuragarri dauden helburuak erakusten dituena.
-Egin klik "Flash!" irudia idazten hasteko Etcher softwarearen pantaila-argazkia Flash botoia nabarmenduta erakusten duena.
+1.Itsatsi zure Raspberry Pi-ren URLa Balena Etcher-en eta egin klik "Ados" 
+![etcher2](https://user-images.githubusercontent.com/124257919/218414702-50a26829-4a2e-4264-8093-a836be9b2796.png)
+
+2.Balena Etcherrek orain irudia deskargatuko du, hori amaitutakoan sakatu "Hautatu helburua"
+![etcher3](https://user-images.githubusercontent.com/124257919/218414933-4d497066-f63d-4326-ba53-dfd714c748ee.png)
+
+3.Hautatu zure Raspberry Pi-rako erabili nahi duzun SD txartela
+![etcher4](https://user-images.githubusercontent.com/124257919/218415116-bfe89a2f-9a96-4fef-b96d-7f5932fdbd92.png)
+
+4.Egin klik "Flash!" irudia idazten hasteko
+![etcher5](https://user-images.githubusercontent.com/124257919/218415248-f965962d-9646-4c80-bb79-656b86fd7954.png)
+
+Etcher softwarearen pantaila-argazkia Flash botoia nabarmenduta erakusten duena.
 Balena Etcherrek irudia idazten amaitzean baieztapen hau jasoko duzu Etcher softwarearen pantaila-argazkia, instalazioa amaitu dela erakusten duena.
 ABIARAZI ZURE RASPBERRY PI
 Sartu sortu berri duzun abio-euskarria (SD txartela).
