@@ -100,3 +100,8 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
  3- EspHome barruan, gailuak jartzeko. "Gailua gehitu" botoiari eman eta daukazuten plaka mota aukeratu.
  
  ![image](https://user-images.githubusercontent.com/124257919/218422678-01527f06-0b3e-4241-945d-cec5958dabab.png)
+ 
+ 4- Yaml programa jartzeko, interneteko bilatzailean "esphome" bilatu eta aterako den web-gunean zure sentsorea bilatu.
+ 
+ ![image](https://user-images.githubusercontent.com/124257919/218423518-d918e61e-31d7-4889-8ca3-1366b8785506.png)
+
