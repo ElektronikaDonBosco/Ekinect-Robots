@@ -134,7 +134,8 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
 ![image](https://user-images.githubusercontent.com/124257919/218437803-79032d6e-05fa-4bd0-a426-54c65b15a0f7.png)
 
 Entity ID-n gure sentrorearen ID-a jarri behar dugu.
-Update Interval zenbatero bidaltzen dituen sentsorearen datuak.
+
+Update Interval-en zenbatero bidaltzen dituen sentsorearen datuak.
 
 ![image](https://user-images.githubusercontent.com/124257919/218438864-1ce2816a-5fba-48d7-80eb-02ef0d71d667.png)
 
