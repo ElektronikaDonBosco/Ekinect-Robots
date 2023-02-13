@@ -7,7 +7,11 @@ GERONTOLOGIA-ZENTRUKO PEPPER ROBOTA, AUTOMATIZAZIOA ETA ROBOTIKA.
 ![download](https://user-images.githubusercontent.com/124257919/218088690-480dc9fb-4309-41bd-9c87-522be7ed8863.jpg)
 # Zein da gure proiektua ?
 
-Don Bosco, Zubiri Manteo eta Easo Politeknikoren arteko proiektua da. Proiektu honetan guk egindako plaken artean;
+Don Bosco, Zubiri Manteo eta Easo Politeknikoren arteko proiektua da. 
+
+
+Proiektu honetan guk egindako plaken artean;
+
 ![images](https://user-images.githubusercontent.com/124257919/218395144-f82175ca-1292-40ea-b98d-4d9f054e8dae.jpg)
 ![download](https://user-images.githubusercontent.com/124257919/218395510-ee982a1c-4218-41ed-be22-7e651fcf561f.png)
 ![download](https://user-images.githubusercontent.com/124257919/218395846-35b05018-82b6-43a4-93a2-7b937a1145b4.jpg)
