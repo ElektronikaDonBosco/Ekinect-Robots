@@ -3,12 +3,15 @@ ATAZAK
 
 1. HOME ASSISTANT
 
-Lehenik eta behin, gure Raspberry Pi 4-an Home Assistant softwarea instalatu genuen. 
-Erantsi Home Assistant abiarazte-euskarria (SD txartela) ordenagailura
+Lehenik eta behin, gure Raspberry Pi 4-an Home Assistant softwarea instalatu genuen.
 
-Deskargatu eta hasi Balena Etcher . (Agian administratzaile-pribilegioekin exekutatu beharko duzu Windows-en).
+1-Erantsi Home Assistant abiarazte-euskarria (SD txartela) ordenagailura
 
-Hautatu "Flash URLtik" Hautatutako URLaren flasha erakusten duen Etcher softwarearen pantaila-argazkia.
+2-Deskargatu eta hasi Balena Etcher . (Agian administratzaile-pribilegioekin exekutatu beharko duzu Windows-en).
+
+3-Hautatu "Flash URLtik" Hautatutako URLaren flasha erakusten duen Etcher softwarearen pantaila-argazkia.
+![etcher1](https://user-images.githubusercontent.com/124257919/218414259-9466c2a2-4ba1-41b9-8b2c-67142bc3c6c4.png)
+
 
 Lortu zure Raspberry Pi-ren URLa:
 
