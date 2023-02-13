@@ -31,7 +31,7 @@ Hautatu eta kopiatu URLa edo erabili gainean jartzen duzunean agertzen den "kopi
 4.Egin klik "Flash!" irudia idazten hasteko
 ![etcher5](https://user-images.githubusercontent.com/124257919/218415248-f965962d-9646-4c80-bb79-656b86fd7954.png)
 
-5.Balena Etcherrek irudia idazten amaitzean baieztapen hau jasoko duzu Etcher softwarearen pantaila-argazkia, instalazioa amaitu dela erakusten duena.
+5.Balena Etcherrek irudia idazten amaitzean baieztapen hau jasoko duzu Etcher softwarearen pantaila-argazkia, instalazioa amaitu da
 ![etcher6](https://user-images.githubusercontent.com/124257919/218415564-b5b52126-0598-4cb2-800a-4a5ee4e13c69.png)
 
 ABIARAZI ZURE RASPBERRY PI
