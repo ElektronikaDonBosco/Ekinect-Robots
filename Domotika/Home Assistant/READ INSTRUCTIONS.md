@@ -104,4 +104,28 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
  4- Yaml programa jartzeko, interneteko bilatzailean "esphome" bilatu eta aterako den web-gunean zure sentsorea bilatu.
  
  ![image](https://user-images.githubusercontent.com/124257919/218423518-d918e61e-31d7-4889-8ca3-1366b8785506.png)
+ 
+ 1.3 Node-Red
+ 
+ 1- Node-Red instalatzeko; Home Assistant-en joan Ezarpenak → Gehigarriak → Gehigarrien denda eta instalatu Node-Red.
+
+ 2- Node-Red konfiguratzeko:
+
+· credential_secret*-en pasahitz bat idatzi behar duzu, hainbat elementu kodetzeko erabiliko dena.
+![image](https://user-images.githubusercontent.com/124257919/218424770-6081787e-b7f0-493c-8fd9-dfcdb281d9d3.png)
+
+· http_node:
+	password: zuen Home Assitanteko pasaitza
+	username: zuen Home Assistanteko erabiltzaile izena
+![image](https://user-images.githubusercontent.com/124257919/218424849-19881dfa-a7f7-4a76-a7c0-57b72285dd60.png)
+
+· http_static:
+	password: zuen Home Assitanteko pasaitza
+	username: zuen Home Assistanteko erabiltzaile izena
+![image](https://user-images.githubusercontent.com/124257919/218424956-82b741e4-63f2-4040-874a-11113dca680a.png)
+
+  3- Red konfigurazioan portua 1880 jarri behar da.
+![image](https://user-images.githubusercontent.com/124257919/218424595-3e511ec3-90fe-465c-a0c7-7b0b17321736.png)
+
+
 
