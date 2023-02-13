@@ -84,3 +84,8 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
   · Erakusten badu, 502: Bad Gatewayitxaron pixka bat gehiago eta freskatu orria.
   
   · Honek luzeegia hartzen badu (adibidez, 2 minutu +), egiaztatu Erregistroa fitxan zer gertatu den gaizki ikusteko.
+  
+ 1.2 ESP HOME
+ 
+ Gure sentsoreen sarea egiteko "Esp Home" aplikazioa instalatu genuen.
+ 
