@@ -20,6 +20,7 @@ Don Bosco, Zubiri Manteo eta Easo Politeknikoren arteko proiektua da. Proiektu h
 - Pultsera
 
 Plaka hauen baldintzak jakiteko, Easo Politeknikoaren ikasleen laguntzaz baliatu ginen. Zahar-etxeko pertsonen kondizioetaz hitz egin eta gure sentsoreetara aplikatu ditugu. Sentsore horiek "Home Assistant" bidez konektatuko ditugu. 
+![image](https://user-images.githubusercontent.com/124257919/218397832-3db6f46e-8716-42cc-b71b-04c1e804d976.png)
 
 
 
