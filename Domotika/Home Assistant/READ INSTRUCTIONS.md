@@ -151,4 +151,17 @@ Barruko plakaren konexioak
 
 ![1_k_JmJsVBnjiRLG1Snjm8vQ](https://user-images.githubusercontent.com/124257919/218435704-e342d077-ba37-4c9c-91d3-df3c3d1533a3.png)
 
+Estazio metereologikoa
+
+![images](https://user-images.githubusercontent.com/124257919/218441897-c48aa0cb-a086-4b4f-9002-c1bfc5229f64.jpg)
+![images](https://user-images.githubusercontent.com/124257919/218442125-bdf2a8d8-723e-4b23-b5ff-bc952df121a3.jpg)
+
+Pantaila
+
+![1 8inch-TFT](https://user-images.githubusercontent.com/124257919/218442592-c33e5a4e-083c-4657-979f-f370a0a4cc8f.png)
+
+Pulsera
+
+![images](https://user-images.githubusercontent.com/124257919/218442885-1e749cf6-33af-475a-8716-d19df59322d1.png)
+
 
