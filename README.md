@@ -47,4 +47,9 @@ Zerbitzari hau, datu hauek prozesatu egingo ditu eta gure Pepper-ek, robot human
 
 
 
-Etorkizunari begira Pepper-entzako aplikazio bat egitea da helburua. Geriatrikoko langileak beraien pazienteei ariketa fisiko eta kognitiboetan laguntzea.   
+Etorkizunari begira Pepper-entzako aplikazio bat egitea da helburua. Geriatrikoko langileak beraien pazienteei ariketa fisiko eta kognitiboetan laguntzea. 
+
+
+![unnamed](https://user-images.githubusercontent.com/124257919/218399840-a09d5564-d3da-456f-ae34-69a9745f13cd.png)
+
+
