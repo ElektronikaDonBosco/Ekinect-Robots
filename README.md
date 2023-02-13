@@ -21,6 +21,8 @@ Don Bosco, Zubiri Manteo eta Easo Politeknikoren arteko proiektua da. Proiektu h
 
 Plaka hauen baldintzak jakiteko, Easo Politeknikoaren ikasleen laguntzaz baliatu ginen. Zahar-etxeko pertsonen kondizioetaz hitz egin eta gure sentsoreetara aplikatu ditugu. Sentsore horiek "Home Assistant" bidez konektatuko ditugu. 
 
+
+
 ![image](https://user-images.githubusercontent.com/124257919/218398016-88cf8958-d26b-4af1-b3ea-998036dbb1d4.png)
 
 
@@ -29,6 +31,8 @@ Plaka hauen baldintzak jakiteko, Easo Politeknikoaren ikasleen laguntzaz baliatu
 
 Gure plakak Zubiri Manteoko ikasleek egindako web orriari datuak bidaliko dizkiogu "NodeRed"-en laguntzaz.
 
+
+
 ![image](https://user-images.githubusercontent.com/124257919/218398257-5f8179ab-5822-4891-9125-3595742573b1.png)
 
 
@@ -36,6 +40,8 @@ Gure plakak Zubiri Manteoko ikasleek egindako web orriari datuak bidaliko dizkio
 
 
 Zerbitzari hau, datu hauek prozesatu egingo ditu eta gure Pepper-ek, robot humanoideak, guk "Choreographe" aplikazioan sortutako animaziok eta esaldiak esango ditu. Konexioa hau Python pragrazioaren bidez egingo dugu.
+
+
 
 ![image](https://user-images.githubusercontent.com/124257919/218399133-2c3dd311-3933-4476-8fd4-0286bf2caf8e.png)
 
