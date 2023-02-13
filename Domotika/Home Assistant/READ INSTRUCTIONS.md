@@ -89,3 +89,5 @@ Home Assistant Sistema Eragilea instalatuta eta eskuragarri dagoenez, sartzearek
  
  Gure sentsoreen sarea egiteko "Esp Home" aplikazioa instalatu genuen.
  
+ 1- "Osagarri-denda" sartu eta bilatzailean EspHome jarri
+ ![image](https://user-images.githubusercontent.com/124257919/218420948-516ea4e7-5a26-44d1-b910-adb6acd908d7.png)
